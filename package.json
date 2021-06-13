@@ -1,0 +1,15 @@
+{
+  "name": "15.-hangmangame",
+  "version": "1.0.0",
+  "description": "HangmanGame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "author": "Dominik Siejka",
+  "license": "ISC"
+}

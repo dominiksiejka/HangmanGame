@@ -4,7 +4,7 @@
 
 [**click live demo of the project**](https://dominiksiejka.github.io/BillSplitterApp)
 
-![HangmanGame preview](./assets/billsplitter.jpg)
+![HangmanGame preview](./assets/hangman.jpg)
 
 ## Table of Contents
 
